@@ -21,7 +21,9 @@ db_params = {
 }
 
 # URL base do GitHub raw
-#github_base_url = 'https://raw.githubusercontent.com/pevehdev/Analise-criptomoedas/Criptos/main/'
+github_base_url = 'https://raw.githubusercontent.com/pevehdev/Analise-Criptomoedas/main/Criptos/'
+
+
 
 files = [
     'BNB.xlsx',
