@@ -20,8 +20,8 @@ DELETE_SOL_TABLE = ('DROP TABLE IF EXISTS public."SOL"')
 DELETE_TRON_TABLE = ('DROP TABLE IF EXISTS public."TRON"')
 DELETE_XRP_TABLE = ('DROP TABLE IF EXISTS public."XRP"')
 
-load_dotenv()
-url = os.getenv("DATABASE_URL")
+# load_dotenv()
+# url = os.getenv("DATABASE_URL")
 
 # Suprime os avisos de segurança sobre SSL
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -97,7 +97,7 @@ def process_file(filename, connection):
 
 # Conexão com o banco de dados
 try:
-    with psycopg2.connect(url) as connection:
+    with psycopg2.connect(**db_params) as connection:
         deletarDados(connection)
         for filename in files:
             process_file(filename, connection)
