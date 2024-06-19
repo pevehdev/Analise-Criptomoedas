@@ -2,7 +2,7 @@
 db_params = {
     'dbname': 'cripto',
     'user': 'postgres',
-    'password': 'admin',
+    'password': '1710',
     'host': 'localhost',
     'port': '5432'
 }
