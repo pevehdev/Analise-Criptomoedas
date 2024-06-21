@@ -104,5 +104,6 @@ try:
 except psycopg2.Error as e:
     print("Erro ao conectar ao banco de dados:", e)
 
+
 print('Todas as tabelas foram criadas e os dados foram inseridos.')
 
