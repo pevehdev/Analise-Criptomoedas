@@ -2,9 +2,9 @@
 db_params = {
     'dbname': 'cripto',
     'user': 'postgres',
-    'password': 'senac@123',
+    'password': 'admin',
     'host': 'localhost',
-    'port': '5434'
+    'port': '5432'
 }
 
 # URL base do GitHub raw para o diretório correto
