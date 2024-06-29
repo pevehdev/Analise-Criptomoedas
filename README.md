@@ -9,6 +9,7 @@
 -  ``Python``
 -  ``PostgreSQL``
 -  ``Power Bi``
+-  ``Asana (gerenciador de projeto)``
 
 
 
