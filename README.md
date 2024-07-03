@@ -37,6 +37,9 @@
 ### Variação dos preços
 ![image](https://github.com/pevehdev/Analise-Criptomoedas/assets/114115311/a0e452bb-9fca-4ac1-9aa8-a69a5aea67b0)
 #
+### Link da apresentação em slides
+https://www.canva.com/design/DAGJwYTx_KI/1ADr7IGVJiECJNWGTUvGzg/edit
+
 
 # Obrigado! 🙋‍♂️
 
