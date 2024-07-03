@@ -43,7 +43,7 @@
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/114115311?v=4" width=115><br><sub>Paulo Victor</sub>](https://github.com/pevehdev)  |  [<img src="https://avatars.githubusercontent.com/u/113216641?v=4" width=115><br><sub>Gabriel Conceição</sub>](https://github.com/BieldoJT) | [<img src="https://avatars.githubusercontent.com/u/163933962?v=4" width=115><br><sub>Alexandre Braga</sub>](https://github.com/AlexandreBragaFerreira)  | 
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/114115311?v=4" width=115><br><sub>Paulo Victor</sub>](https://github.com/pevehdev)  |  [<img src="https://avatars.githubusercontent.com/u/113216641?v=4" width=115><br><sub>Gabriel Conceição</sub>](https://github.com/BieldoJT) | [<img src="https://avatars.githubusercontent.com/u/163933962?v=4" width=115><br><sub>Alexandre Braga</sub>](https://github.com/AlexandreBragaFerreira)  | [<img src="https://avatars.githubusercontent.com/u/113200469?v=4" width=115><br><sub>Patrick Fortunato</sub>](https://github.com/PatrickvFortunato)
+| :---: | :---: | :---: | :---: |
 
 
