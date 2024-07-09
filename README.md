@@ -40,6 +40,8 @@
 ### Link da apresentação em slides
 https://www.canva.com/design/DAGJwYTx_KI/1ADr7IGVJiECJNWGTUvGzg/edit
 
+### Link do Dashboard Publicado
+https://app.powerbi.com/groups/me/reports/6f4c712d-cb5f-419e-b567-932a948cf6a4/14c1165991b3cb2bf669?experience=power-bi
 
 # Obrigado! 🙋‍♂️
 
